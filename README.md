@@ -3,7 +3,7 @@ title: 'Project documentation template'
 disqus: hackmd
 ---
 
-Project Title
+QCTools-IBMQ
 ===
 ![downloads](https://img.shields.io/github/downloads/atom/atom/total.svg)
 ![build](https://img.shields.io/appveyor/ci/:user/:repo.svg)
@@ -94,5 +94,3 @@ gantt
 :::
 
 ###### tags: `Templates` `Documentation`
-# QCTools-IBMQ
-IBMQ離線版工具
