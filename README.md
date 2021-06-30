@@ -103,12 +103,19 @@ b. plot by ibm quantum meachine (need ibm account
 
 both need to run IBMqiskitplot_samplecode.py
 ### used pakages (2 types process to get)
+ <br>
  python 3.6
+ \<br>
+ <br>
  requirement.txt
+ \<br>
+ <br>
  or
+ \<br>
+ <br>
  pip install quiskit、
              matpoltlib
-                
+ \<br>
 ### a.plot your first circuit by qasm_simulator
   #### 1. copy and paste your circuit code between the sign 【circuit Start】&【circuit End】，see the follwing figure.
   <br>
