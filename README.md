@@ -101,7 +101,7 @@ gantt
 <br>
 a. plot by simulator
 <br/>
-b. plot by ibm quantum meachine (need ibm account
+b. plot by ibm quantum meachine (need ibm account)
 
 both need to run IBMqiskitplot_samplecode.py
 ### used pakages (2 types process to get)
@@ -117,7 +117,7 @@ both need to run IBMqiskitplot_samplecode.py
   <br><br/>
   then run IBMqiskitplot_samplecode.py
 
-### a.plot your first circuit by real ibm quantum machine
+### a.plot your first circuit by ibm quantum machine
   #### step 1. enter your account token
     login ibm quantum platform and get account token , or quick login click [ibm login](https://quantum-computing.ibm.com/login)
 
