@@ -104,15 +104,18 @@ b. plot by ibm quantum meachine (need ibm account
 both need to run IBMqiskitplot_samplecode.py
 ### used pakages (2 types process to get)
  python 3.6
- a. requirement.txt
- b. pip install quiskit、
-                matpoltlib
+ requirement.txt
+ or
+ pip install quiskit、
+             matpoltlib
                 
-### plot your first circuit by qasm_simulator
+### a.plot your first circuit by qasm_simulator
   #### 1. copy and paste your circuit code between the sign 【circuit Start】&【circuit End】，see the follwing figure.
-  ex:![image](https://user-images.githubusercontent.com/46103010/123931665-4d14f000-d9c3-11eb-8190-87706ce2eaff.png)
+  <br>
+  ![image](https://user-images.githubusercontent.com/46103010/123931665-4d14f000-d9c3-11eb-8190-87706ce2eaff.png)
+  \<br>
   then run IBMqiskitplot_samplecode.py
-### plot your first circuit by real ibm quantum machine
+### a.plot your first circuit by real ibm quantum machine
   #### 1. enter your account token
     login ibm quantum platform and get account token , or quick login click [ibm login](https://quantum-computing.ibm.com/login)
 
