@@ -98,7 +98,9 @@ gantt
 
 
 ## Quick Start
+<br>
 a. plot by simulator
+<br/>
 b. plot by ibm quantum meachine (need ibm account
 
 both need to run IBMqiskitplot_samplecode.py
