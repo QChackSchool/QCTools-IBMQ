@@ -96,4 +96,41 @@ gantt
 ###### tags: `Templates` `Documentation`
 
 
-## hahatest
+
+## Quick Start
+### used pakages (2 stypes)
+ python 3.6
+ 1. see the requirement.txt
+ 2. pip install quiskit
+                matpoltlib
+                
+##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
