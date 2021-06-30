@@ -113,9 +113,8 @@ both need to run IBMqiskitplot_samplecode.py
  
 ### a.plot your first circuit by qasm_simulator
   #### copy and paste your circuit code between the sign 【circuit Start】&【circuit End】，see the follwing figure.
-  <br>
-  <img>![image](https://user-images.githubusercontent.com/46103010/123931665-4d14f000-d9c3-11eb-8190-87706ce2eaff.png)<img/>
-  <br/>
+  ![image](https://user-images.githubusercontent.com/46103010/123931665-4d14f000-d9c3-11eb-8190-87706ce2eaff.png)
+  <br><br/>
   then run IBMqiskitplot_samplecode.py
 
 ### a.plot your first circuit by real ibm quantum machine
