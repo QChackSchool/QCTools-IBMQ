@@ -103,7 +103,7 @@ a. plot by simulator
 <br/>
 b. plot by ibm quantum meachine (need ibm account)
 
-both need to run IBMqiskitplot_samplecode.py
+both need to run IBMqiskitplot_samplecode.py, and modify it
 ### used pakages (2 types process to get)
  <br>python 3.6 <br/>
  <br> requirement.txt <br/>
