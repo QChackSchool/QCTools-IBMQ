@@ -98,13 +98,23 @@ gantt
 
 
 ## Quick Start
-### used pakages (2 stypes)
+1.plot by simulator
+2.plot by ibm quantum meachine (need ibm account
+
+### used pakages (2 types process to get)
  python 3.6
- 1. see the requirement.txt
- 2. pip install quiskit
+ 1. requirement.txt
+ 2. pip install quiskit、
                 matpoltlib
                 
-##
+## plot your first circuit by qasm_simulator
+  run IBMqiskitplot_samplecode.py
+  
+  but still something to be changed
+  1.copy and paste your circuit code between the sign 【circuit Start】&【circuit End】
+  ex:![image](https://user-images.githubusercontent.com/46103010/123931665-4d14f000-d9c3-11eb-8190-87706ce2eaff.png)
+
+  
 
 
 
