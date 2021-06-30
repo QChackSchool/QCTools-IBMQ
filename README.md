@@ -98,7 +98,7 @@ gantt
 
 
 ## Quick Start
-1.plot by simulator
+1.plot by simulator 
 2.plot by ibm quantum meachine (need ibm account
 
 ### used pakages (2 types process to get)
