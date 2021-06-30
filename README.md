@@ -119,7 +119,7 @@ both need to run IBMqiskitplot_samplecode.py, and modify it
 
 ### b. plot your first circuit by ibm quantum machine
   #### step 1. enter your account token
-    login ibm quantum platform and get account token , or quick login click <https://quantum-computing.ibm.com/login>
+    login ibm quantum platform and get account token , or quick login click https://quantum-computing.ibm.com/login
 
 
 
