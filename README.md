@@ -114,9 +114,10 @@ both need to run IBMqiskitplot_samplecode.py
 ### a.plot your first circuit by qasm_simulator
   #### copy and paste your circuit code between the sign 【circuit Start】&【circuit End】，see the follwing figure.
   <br>
-  ![image](https://user-images.githubusercontent.com/46103010/123931665-4d14f000-d9c3-11eb-8190-87706ce2eaff.png)
+  <img>![image](https://user-images.githubusercontent.com/46103010/123931665-4d14f000-d9c3-11eb-8190-87706ce2eaff.png)<img/>
   <br/>
   then run IBMqiskitplot_samplecode.py
+
 ### a.plot your first circuit by real ibm quantum machine
   #### step 1. enter your account token
     login ibm quantum platform and get account token , or quick login click [ibm login](https://quantum-computing.ibm.com/login)
