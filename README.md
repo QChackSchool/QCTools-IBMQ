@@ -115,11 +115,20 @@ both need to run IBMqiskitplot_samplecode.py, and modify it
   #### copy and paste your circuit code between the sign 【circuit Start】&【circuit End】，see the follwing figure.
   ![image](https://user-images.githubusercontent.com/46103010/123931665-4d14f000-d9c3-11eb-8190-87706ce2eaff.png)
   <br><br/>
+  or use this test code
+  qreg_q = QuantumRegister(1, 'q')
+  creg_c = ClassicalRegister(1, 'c')
+  circuit = QuantumCircuit(qreg_q, creg_c)
+  circuit.h(qreg_q[0])
+  circuit.measure(qreg_q[0], creg_c[0])
+
+
   then run IBMqiskitplot_samplecode.py
 
 ### b. plot your first circuit by ibm quantum machine
   #### step 1. enter your account token
-    login ibm quantum platform and get account token , or quick login click:https://quantum-computing.ibm.com/login
+    login ibm quantum platform and get account token , or quick login click https://quantum-computing.ibm.com/login
+    
 
 
 
