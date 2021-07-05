@@ -136,8 +136,11 @@ both need to run IBMqiskitplot_samplecode.py, and modify it
   login ibm quantum platform and get account token , or quick login click https://quantum-computing.ibm.com/login
   <br><br/>
   input the token here see figure
+  <br><br/>
   ![image](https://user-images.githubusercontent.com/46103010/124427652-3f35e500-dd9e-11eb-923e-043da7aecf2e.png)
+  <br><br/>
   and cooment out this code
+  <br><br/>
   ![image](https://user-images.githubusercontent.com/46103010/124427708-51178800-dd9e-11eb-96f5-c29b0ca622c3.png)
 
 
