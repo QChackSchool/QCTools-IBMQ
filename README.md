@@ -112,7 +112,7 @@ both need to run IBMqiskitplot_samplecode.py, and modify it
                   matpoltlib <br/>
  
 ### a. plot your first circuit by qasm_simulator
-  #### comment these code
+  #### comment out these code
   ![image](https://user-images.githubusercontent.com/46103010/124064795-18a73f80-da68-11eb-9718-282f27def60c.png)
 
   #### copy and paste your circuit code between the sign 【circuit Start】&【circuit End】，see the follwing figure.
@@ -137,7 +137,7 @@ both need to run IBMqiskitplot_samplecode.py, and modify it
   <br><br/>
   input the token here see figure
   ![image](https://user-images.githubusercontent.com/46103010/124427652-3f35e500-dd9e-11eb-923e-043da7aecf2e.png)
-  and cooment this 
+  and cooment out this code
   ![image](https://user-images.githubusercontent.com/46103010/124427708-51178800-dd9e-11eb-96f5-c29b0ca622c3.png)
 
 
