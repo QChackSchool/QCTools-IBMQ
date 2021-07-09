@@ -94,3 +94,99 @@ gantt
 :::
 
 ###### tags: `Templates` `Documentation`
+
+
+
+## Quick Start
+<br>
+a. plot by simulator
+<br/>
+b. plot by ibm quantum meachine (need ibm account)
+
+both need to run IBMqiskitplot_samplecode.py, and modify it
+### used pakages (2 types process to get)
+ <br>python 3.6 <br/>
+ <br> requirement.txt <br/>
+ <br> or <br/>
+ <br> pip install quiskit、
+                  matpoltlib <br/>
+ 
+### a. plot your first circuit by qasm_simulator
+  #### comment out these code
+  ![image](https://user-images.githubusercontent.com/46103010/124064795-18a73f80-da68-11eb-9718-282f27def60c.png)
+
+  #### copy and paste your circuit code between the sign 【circuit Start】&【circuit End】，see the follwing figure.
+  ![image](https://user-images.githubusercontent.com/46103010/123931665-4d14f000-d9c3-11eb-8190-87706ce2eaff.png)
+  <br><br/>
+  
+  or use this test code
+  
+  ```qreg_q = QuantumRegister(1, 'q')
+  creg_c = ClassicalRegister(1, 'c')
+  circuit = QuantumCircuit(qreg_q, creg_c)
+  circuit.h(qreg_q[0])
+  circuit.measure(qreg_q[0], creg_c[0])
+  ```
+
+
+  then run IBMqiskitplot_samplecode.py
+
+### b. plot your first circuit by ibm quantum machine
+  #### step 1. enter your account token
+  login ibm quantum platform and get account token , or quick login click https://quantum-computing.ibm.com/login
+  <br><br/>
+  input the token here
+  <br><br/>
+  ![image](https://user-images.githubusercontent.com/46103010/124427652-3f35e500-dd9e-11eb-923e-043da7aecf2e.png)
+  <br><br/>
+  and cooment out this code
+  <br><br/>
+  ![image](https://user-images.githubusercontent.com/46103010/124427708-51178800-dd9e-11eb-96f5-c29b0ca622c3.png)
+
+
+  #### step 2. copy and paste your circuit code between the sign 【circuit Start】&【circuit End】，see the follwing figure.
+  ![image](https://user-images.githubusercontent.com/46103010/123931665-4d14f000-d9c3-11eb-8190-87706ce2eaff.png)
+  <br><br/>
+  
+  or use this test code
+  
+  ```qreg_q = QuantumRegister(1, 'q')
+  creg_c = ClassicalRegister(1, 'c')
+  circuit = QuantumCircuit(qreg_q, creg_c)
+  circuit.h(qreg_q[0])
+  circuit.measure(qreg_q[0], creg_c[0])
+  ```
+
+
+  then run IBMqiskitplot_samplecode.py
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
